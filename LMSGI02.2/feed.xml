@@ -2,23 +2,23 @@
 <rss version="2.0">
 	<channel>
 		<title>Gran Premio de Barcelona-Catalunya</title>
-		<link>https://idetorre.github.io/gran-pre,io-barcelona/LMSGI02.2</link>
-		<description>Novedades sobre el Gran Premio y el vicuito.</description>
+		<link>https://idetorre.github.io/gran-premio-barcelona/LMSGI02.2/</link>
+		<description>Novedades sobre el Gran Premio y el Circuito.</description>
 		<language>es</language>
 		<managingEditor>idetorre@ikaslea.birt.eus (Iván De Torre)</managingEditor>
 		
 		<item>
-			<title>Información del Gran Premio de Barcelona-Catalunya</title>
+			<title>Actualización de la información del Gran Premio</title>
 			<link>https://idetorre.github.io/gran-premio-barcelona/LMSGI02.2/index.html</link>
-			<description>Información del evento y de las categorías participantes.</description>
-			<pubDate>Tue, 27 Oct 2026 18:00:00 +0100</pubDate>
+			<description>Se ha actualizado la información del evento y de las categorías participantes.</description>
+			<pubDate>Thu, 29 Oct 2026 18:00:00 +0100</pubDate>
 		</item>
 		
 		<item>
-			<title>Historia y características del circuito</title>
+			<title>Novedades sobre las características del circuito</title>
 			<link>https://idetorre.github.io/gran-premio-barcelona/LMSGI02.2/circuito.html</link>
-			<description>Historia, longitud, curvas e instalaciones del circuito.</description>
-			<pubDate>Tue, 27 Oct 2026 18:30:00 +0100</pubDate>
+			<description>Se ha revisado la información sobre la longitud, curvas e instalaciones del circuito.</description>
+			<pubDate>Thu, 29 Oct 2026 18:30:00 +0100</pubDate>
 		</item>
 		
 	</channel>
